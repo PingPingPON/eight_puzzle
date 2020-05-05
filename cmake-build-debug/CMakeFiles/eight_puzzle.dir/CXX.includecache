@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dyf/CLionProjects/eight_puzzle/file.h
+global.h
+/home/dyf/CLionProjects/eight_puzzle/global.h
+
+/home/dyf/CLionProjects/eight_puzzle/global.h
+iostream
+-
+string
+-
+vector
+-
+queue
+-
+fstream
+-
+
+/home/dyf/CLionProjects/eight_puzzle/print.h
+global.h
+/home/dyf/CLionProjects/eight_puzzle/global.h
+
+/home/dyf/CLionProjects/eight_puzzle/puzzle.h
+file.h
+/home/dyf/CLionProjects/eight_puzzle/file.h
+print.h
+/home/dyf/CLionProjects/eight_puzzle/print.h
+swap.h
+/home/dyf/CLionProjects/eight_puzzle/swap.h
+
+/home/dyf/CLionProjects/eight_puzzle/statistic.cpp
+puzzle.h
+/home/dyf/CLionProjects/eight_puzzle/puzzle.h
+algorithm
+-
+
+/home/dyf/CLionProjects/eight_puzzle/swap.h
+global.h
+/home/dyf/CLionProjects/eight_puzzle/global.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/eight_puzzle.dir/puzzle.cpp.o CMakeFiles/eight_puzzle.dir/file.cpp.o CMakeFiles/eight_puzzle.dir/swap.cpp.o CMakeFiles/eight_puzzle.dir/print.cpp.o CMakeFiles/eight_puzzle.dir/main.cpp.o CMakeFiles/eight_puzzle.dir/statistic.cpp.o  -o eight_puzzle 

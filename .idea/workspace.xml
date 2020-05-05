@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="eight_puzzle" targetName="eight_puzzle" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b1a4f3c-699f-4c8b-b05c-374551cd2cc6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1au2b8bDnfuDinPLxk5gcOdrJXm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="eight_puzzle" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eight_puzzle" TARGET_NAME="eight_puzzle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eight_puzzle" RUN_TARGET_NAME="eight_puzzle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b1a4f3c-699f-4c8b-b05c-374551cd2cc6" name="Default Changelist" comment="" />
+      <created>1587571226874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587571226874</updated>
+      <workItem from="1587571228675" duration="5418000" />
+      <workItem from="1587616709998" duration="13947000" />
+      <workItem from="1587647459954" duration="15000" />
+      <workItem from="1587697853410" duration="14141000" />
+      <workItem from="1587795644398" duration="5545000" />
+      <workItem from="1587877217394" duration="56000" />
+      <workItem from="1588063953457" duration="3500000" />
+      <workItem from="1588228670484" duration="3000" />
+      <workItem from="1588228914317" duration="2000" />
+      <workItem from="1588249289085" duration="1331000" />
+      <workItem from="1588292964057" duration="1895000" />
+      <workItem from="1588311798386" duration="7000" />
+      <workItem from="1588312147902" duration="652000" />
+      <workItem from="1588313378787" duration="821000" />
+      <workItem from="1588404511283" duration="630000" />
+      <workItem from="1588436122659" duration="3657000" />
+      <workItem from="1588491490314" duration="201000" />
+      <workItem from="1588501442144" duration="282000" />
+      <workItem from="1588561070364" duration="11000" />
+      <workItem from="1588647176952" duration="768000" />
+      <workItem from="1588648504957" duration="11463000" />
+      <workItem from="1588670491925" duration="1040000" />
+      <workItem from="1588671566097" duration="81000" />
+      <workItem from="1588671691921" duration="56000" />
+      <workItem from="1588671761221" duration="106000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1588669501913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588669501913</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial">
+      <created>1588670609937</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588670609937</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="662" y="289" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588066798143">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state x="662" y="289" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1859.1080@0.0.1859.1080" timestamp="1588066798143" />
+    <state x="469" y="82" width="910" height="916" key="CommitChangelistDialog2" timestamp="1588670609728">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state x="469" y="82" width="910" height="916" key="CommitChangelistDialog2/0.0.1859.1080@0.0.1859.1080" timestamp="1588670609728" />
+    <state x="462" y="280" width="447" height="484" key="FileChooserDialogImpl" timestamp="1588671776089">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state x="462" y="280" width="447" height="484" key="FileChooserDialogImpl/0.0.1859.1080@0.0.1859.1080" timestamp="1588671776089" />
+    <state x="777" y="440" key="Github.ShareDialog" timestamp="1588670804141">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state x="777" y="440" key="Github.ShareDialog/0.0.1859.1080@0.0.1859.1080" timestamp="1588670804141" />
+    <state x="716" y="213" width="416" height="653" key="Github.UntrackedFilesDialog" timestamp="1588669358998">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state x="716" y="213" width="416" height="653" key="Github.UntrackedFilesDialog/0.0.1859.1080@0.0.1859.1080" timestamp="1588669358998" />
+    <state width="1811" height="407" key="GridCell.Tab.0.bottom" timestamp="1588670476424">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state width="1811" height="407" key="GridCell.Tab.0.bottom/0.0.1859.1080@0.0.1859.1080" timestamp="1588670476424" />
+    <state width="1811" height="407" key="GridCell.Tab.0.center" timestamp="1588670476421">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state width="1811" height="407" key="GridCell.Tab.0.center/0.0.1859.1080@0.0.1859.1080" timestamp="1588670476421" />
+    <state width="1811" height="407" key="GridCell.Tab.0.left" timestamp="1588670476420">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state width="1811" height="407" key="GridCell.Tab.0.left/0.0.1859.1080@0.0.1859.1080" timestamp="1588670476420" />
+    <state width="1811" height="407" key="GridCell.Tab.0.right" timestamp="1588670476423">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state width="1811" height="407" key="GridCell.Tab.0.right/0.0.1859.1080@0.0.1859.1080" timestamp="1588670476423" />
+    <state width="1811" height="245" key="GridCell.Tab.1.bottom" timestamp="1588439783145">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state width="1811" height="245" key="GridCell.Tab.1.bottom/0.0.1859.1080@0.0.1859.1080" timestamp="1588439783145" />
+    <state width="1811" height="245" key="GridCell.Tab.1.center" timestamp="1588439783144">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state width="1811" height="245" key="GridCell.Tab.1.center/0.0.1859.1080@0.0.1859.1080" timestamp="1588439783144" />
+    <state width="1811" height="245" key="GridCell.Tab.1.left" timestamp="1588439783143">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state width="1811" height="245" key="GridCell.Tab.1.left/0.0.1859.1080@0.0.1859.1080" timestamp="1588439783143" />
+    <state width="1811" height="245" key="GridCell.Tab.1.right" timestamp="1588439783145">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state width="1811" height="245" key="GridCell.Tab.1.right/0.0.1859.1080@0.0.1859.1080" timestamp="1588439783145" />
+    <state x="0" y="148" key="SettingsEditor" timestamp="1588671367453">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state x="0" y="148" key="SettingsEditor/0.0.1859.1080@0.0.1859.1080" timestamp="1588671367453" />
+    <state x="524" y="276" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1588670867108">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state x="524" y="276" width="800" height="528" key="Vcs.Push.Dialog.v2/0.0.1859.1080@0.0.1859.1080" timestamp="1588670867108" />
+    <state x="699" y="455" width="450" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588670501009">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state x="699" y="455" width="450" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1859.1080@0.0.1859.1080" timestamp="1588670501009" />
+    <state x="580" y="328" width="688" height="423" key="git4idea.merge.GitPullDialog" timestamp="1588670156978">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state x="580" y="328" width="688" height="423" key="git4idea.merge.GitPullDialog/0.0.1859.1080@0.0.1859.1080" timestamp="1588670156978" />
+    <state x="703" y="402" width="443" height="275" key="git4idea.rebase.GitRebaseDialog" timestamp="1588670268666">
+      <screen x="0" y="0" width="1859" height="1080" />
+    </state>
+    <state x="703" y="402" width="443" height="275" key="git4idea.rebase.GitRebaseDialog/0.0.1859.1080@0.0.1859.1080" timestamp="1588670268666" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/statistic.cpp</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/statistic.cpp</url>
+          <line>52</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="temp" language="ObjectiveC" />
+        <watch expression="close.size()" language="ObjectiveC" />
+        <watch expression="*pointerS" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
